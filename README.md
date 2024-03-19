@@ -1,7 +1,7 @@
 # Comp3005A3-Q1
 
 ## Setup the Database:
-1. Open PgAdmin and create a database titled university
+1. Open pgAdmin and create a database titled university
 2. Create a new query and run the following to create the students table
 ```sql
 CREATE TABLE students (
