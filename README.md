@@ -22,5 +22,5 @@ INSERT INTO students (first_name, last_name, email, enrollment_date) VALUES
 
 ## Execute the Program
 1. Install psycopg2 using pip install psycopg2
-2. Change user and student values in a3_comp3005.py to match your postgresql details
+2. Change user and student values in comp3005a3.py to match your postgresql details
 3. Run the program and follow the prompts in the terminal to VIEW, ADD, UPDATE, and DELETE users from the students table
